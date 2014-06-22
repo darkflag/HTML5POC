@@ -1,0 +1,12 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 1
+
+newmtl SVGMat
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.412308 0.312847 0.225395
+Ks 0.772727 0.772727 0.772727
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .
